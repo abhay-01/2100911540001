@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+# MOBILE VIEW
+![image](https://github.com/user-attachments/assets/7ab527a8-489b-4a5f-a097-e72891808b02)
+
+
 # HOMESCREEN
 ![WhatsApp Image 2024-07-20 at 11 35 41_448a0deb](https://github.com/user-attachments/assets/70f16aa3-866b-4fe1-9324-e14e9a6f54c2)
 
